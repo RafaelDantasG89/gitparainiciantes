@@ -1,0 +1,23 @@
+{
+  "name": "WebGit",
+  "version": "1.0.0",
+  "description": "Repositório teste da ultima aula do curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelDantasG89/gitparainiciantes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelDantasG89/gitparainiciantes/issues"
+  },
+  "homepage": "https://github.com/RafaelDantasG89/gitparainiciantes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
